@@ -1,0 +1,14 @@
+layout_spectrum: 0.4477173029445112
+typography_spectrum: 0.3689958758186549
+color:
+  brandStrength: 0.977492782054469
+  lightness: 0.030334603507071733
+  saturation: 0.19947160175070167
+  rhythmicContrast: 0.3242694630753249
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Wanderings
